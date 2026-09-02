@@ -6,6 +6,7 @@ public class BlockLetters {
                 "SSS\n" + //
                 "  S\n" + //
                 "SSS\n" + //
+
                 "L\n" + //
                 "L\n" + //
                 "L\n" + //
